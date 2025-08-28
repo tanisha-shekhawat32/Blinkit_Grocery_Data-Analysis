@@ -17,8 +17,11 @@ Visualize KPIs and translate raw data into business insights
 ## KPIs Tracked
 KPI	Value
  Total Sales	$1.20M
+
  Total Items Sold	8,523
+
  Average Sales/Item	$141
+
  Average Customer Rating	3.9
 
 These KPIs provide a snapshot of performance and serve as the foundation for deeper analysis within the dashboard.
